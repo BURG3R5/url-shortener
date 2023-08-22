@@ -1,6 +1,6 @@
 # url-shortener
 
-Companion project for [my article on Software Testing](https://aditya-rajput.medium.com/)
+Companion project for [my article on Software Testing](https://bit.ly/reliable-code-1A)
 
 ### Makefile
 
